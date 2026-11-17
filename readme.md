@@ -62,25 +62,11 @@ I help security teams turn requirements into evidence. My work sits where govern
 | Finalist | Trend Micro CTF | Sep 2024 |
 | Top 8 Finalist | IoT Conference Packethacks Hackathon | 2025 |
 
----
-
-<h2 align="center">Featured Projects</h2>
-
-| Project | Description | Stack |
-|---|---|---|
-| [GRC Toolkit](https://github.com/berbonilla2/grc-toolkit) | Risk register, NIST CSF 2.0 gap assessment, and RA 10173 checklist templates (sample data only) | Excel, Markdown |
-| [Security Monitoring Automation](https://github.com/berbonilla2/security-monitoring-automation) | Python checks for record validation and data consistency using synthetic data | Python, SQL |
-| [CTF Writeups](https://github.com/berbonilla2/ctf-writeups) | Documented solutions by category with approach, tools, and lessons learned | Various |
-| [Flood-Aware Evacuation Routing](https://github.com/berbonilla2/REPO-NAME) | Deep reinforcement learning framework for dynamic route planning under simulated flood constraints | Python, RL |
-
-<p align="center"><sub>All projects use synthetic or public data. No employer or confidential information is published here.</sub></p>
-
----
 
 <div align="center">
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/iber-joseph-bonilla/) · [berbonilla27@gmail.com](mailto:berbonilla27@gmail.com)
+[LinkedIn](https://linkedin.com/in/iber-joseph-bonilla/) · [ijpbonilla.work@gmail.com](mailto:ijpbonilla.work@gmail.com)
 
 </div>
