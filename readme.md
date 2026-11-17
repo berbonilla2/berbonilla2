@@ -1,19 +1,32 @@
+<div align="center">
+
 # Iber Joseph Bonilla
 
 **Cybersecurity Analyst | GRC & SOC | CTF Competitor**
-Manila, Philippines · Summa Cum Laude, BS Computer Science (Machine Learning) · MS Computer Science candidate, TIP
+
+Manila, Philippines · Summa Cum Laude, BS Computer Science (Machine Learning)
+MS Computer Science candidate, Technological Institute of the Philippines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iber-joseph-bonilla/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:berbonilla27@gmail.com)
 
+</div>
+
 ---
 
-## About
+<h2 align="center">About</h2>
+
+<p align="center">
 I help security teams turn requirements into evidence. My work sits where governance, monitoring, and automation meet: validating controls, documenting repeatable procedures, and building Python checks that reduce manual effort. I also compete in CTFs to keep my hands-on skills sharp.
+</p>
 
-**Open to:** Cybersecurity Analyst · GRC Analyst · SOC Analyst (entry-level) roles in the Philippines or remote.
+<p align="center">
+<b>Open to:</b> Cybersecurity Analyst · GRC Analyst · Entry-level SOC Analyst roles in the Philippines or remote
+</p>
 
-## Core Competencies
+---
+
+<h2 align="center">Core Competencies</h2>
 
 | Area | Focus |
 |---|---|
@@ -23,7 +36,9 @@ I help security teams turn requirements into evidence. My work sits where govern
 | **Automation & Tools** | Python, SQL, Postman, Microsoft Office |
 | **Applied ML** | Reinforcement learning, deep learning, transformer-based NLP |
 
-## Experience
+---
+
+<h2 align="center">Experience</h2>
 
 **Cybersecurity Intern, MERALCO** · Jun – Aug 2025
 - Validated security platform controls by checking incident records, database integrity, and data consistency
@@ -35,7 +50,9 @@ I help security teams turn requirements into evidence. My work sits where govern
 - Produced structured technical documentation, test cases, and defect reports
 - Ran API, web, and database testing (Postman, SQL) and reported results to stakeholders
 
-## Competitions
+---
+
+<h2 align="center">Competitions</h2>
 
 | Result | Event | Date |
 |---|---|---|
@@ -45,7 +62,9 @@ I help security teams turn requirements into evidence. My work sits where govern
 | Finalist | Trend Micro CTF | Sep 2024 |
 | Top 8 Finalist | IoT Conference Packethacks Hackathon | 2025 |
 
-## Featured Projects
+---
+
+<h2 align="center">Featured Projects</h2>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -54,10 +73,14 @@ I help security teams turn requirements into evidence. My work sits where govern
 | [CTF Writeups](https://github.com/berbonilla2/ctf-writeups) | Documented solutions by category with approach, tools, and lessons learned | Various |
 | [Flood-Aware Evacuation Routing](https://github.com/berbonilla2/REPO-NAME) | Deep reinforcement learning framework for dynamic route planning under simulated flood constraints | Python, RL |
 
-> All projects use synthetic or public data. No employer or confidential information is published here.
+<p align="center"><sub>All projects use synthetic or public data. No employer or confidential information is published here.</sub></p>
 
-## Certifications
-*Add here as you earn them (e.g., ISC2 CC, CompTIA Security+).*
+---
+
+<div align="center">
 
 ## Contact
+
 [LinkedIn](https://linkedin.com/in/iber-joseph-bonilla/) · [berbonilla27@gmail.com](mailto:berbonilla27@gmail.com)
+
+</div>
