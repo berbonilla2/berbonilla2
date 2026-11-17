@@ -5,7 +5,7 @@
 **Cybersecurity Analyst | GRC & SOC | CTF Competitor**
 
 Manila, Philippines · Summa Cum Laude, BS Computer Science (Machine Learning)
-MS Computer Science candidate, Technological Institute of the Philippines
+· MS Computer Science candidate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iber-joseph-bonilla/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:berbonilla27@gmail.com)
