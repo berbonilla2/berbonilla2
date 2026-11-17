@@ -188,19 +188,3 @@ When I'm not doing that, I'm on a CTF scoreboard, training reinforcement learnin
 
 </div>
 ````
-````
-
-## Confirm before you publish
-
-- **JISSA-APC CTF date:** your earlier resume said Feb 2024 and this CV says 2025. I used 2025 since it's newer, but fix it if that's wrong. Recruiters notice mismatches between your GitHub, CV, and LinkedIn.
-- **Overlapping internships:** MERALCO (Jun to Aug 2025) and DOST QA (May to Sep 2025) overlap. That's fine if one was part-time or remote, but be ready to explain it in an interview.
-- **Python on your CV:** the CV lists Python under "Familiar with," yet it appears in nearly every role. If you're comfortable with it, move it to "Proficient" so the CV matches this README.
-- **Fun facts and Currently:** I wrote these only from things in your CV. Swap in real ones, like a favorite CTF category or what you're studying, to make it sound like you.
-- **Icons:** Selenium, SQL, REST APIs, and CI/CD use colored badges rather than brand icons, because skillicons.dev doesn't carry them. If any badge logo shows blank in Preview, delete its `&logo=...` part.
-- **Dropped from the old version:** Microsoft Office, since it's not on the new CV. I can add it back if you want.
-
-## Tone dial
-
-If this feels too playful for a conservative employer, delete the Fun Facts section and the `$ whoami` block. The rest stays professional. If you want more personality, I can add a "🚩 Favorite CTF categories" section or a short "How I work" list.
-
-When your `grc-toolkit` and similar repos are ready, I can add a Featured Projects section back in.
